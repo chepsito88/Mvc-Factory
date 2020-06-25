@@ -1,0 +1,16 @@
+C:\Users\Eusebio\Documents\9°\Programacion\Practicas\MVC+FACTORY\MVC_VISTAS\bin\Debug\MVC_VISTAS.dll
+C:\Users\Eusebio\Documents\9°\Programacion\Practicas\MVC+FACTORY\MVC_VISTAS\bin\Debug\MVC_VISTAS.pdb
+C:\Users\Eusebio\Documents\9°\Programacion\Practicas\MVC+FACTORY\MVC_VISTAS\obj\Debug\MVC_VISTAS.csprojAssemblyReference.cache
+C:\Users\Eusebio\Documents\9°\Programacion\Practicas\MVC+FACTORY\MVC_VISTAS\obj\Debug\MVC_VISTAS.Vista_MDI.resources
+C:\Users\Eusebio\Documents\9°\Programacion\Practicas\MVC+FACTORY\MVC_VISTAS\obj\Debug\MVC_VISTAS.csproj.GenerateResource.cache
+C:\Users\Eusebio\Documents\9°\Programacion\Practicas\MVC+FACTORY\MVC_VISTAS\obj\Debug\MVC_VISTAS.csproj.CoreCompileInputs.cache
+C:\Users\Eusebio\Documents\9°\Programacion\Practicas\MVC+FACTORY\MVC_VISTAS\obj\Debug\MVC_VISTAS.dll
+C:\Users\Eusebio\Documents\9°\Programacion\Practicas\MVC+FACTORY\MVC_VISTAS\obj\Debug\MVC_VISTAS.pdb
+C:\Users\Eusebio\Documents\9°\Programacion\Practicas\MVC+FACTORY\MVC_VISTAS\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Eusebio\Documents\9°\Programacion\Practicas\MVC+FACTORY\MVC_VISTAS\bin\Debug\PlaceholderTextBox.dll
+C:\Users\Eusebio\Documents\9°\Programacion\Practicas\MVC+FACTORY\MVC_VISTAS\obj\Debug\MVC_VISTAS.Properties.Resources.resources
+C:\Users\Eusebio\Documents\9°\Programacion\Practicas\MVC+FACTORY\MVC_VISTAS\obj\Debug\MVC_VISTAS.Vista_Cuadrado.resources
+C:\Users\Eusebio\Documents\9°\Programacion\Practicas\MVC+FACTORY\MVC_VISTAS\obj\Debug\MVC_VISTAS.csproj.CopyComplete
+C:\Users\Eusebio\Documents\9°\Programacion\Practicas\MVC+FACTORY\MVC_VISTAS\obj\Debug\MVC_VISTAS.Vista_Circulo.resources
+C:\Users\Eusebio\Documents\9°\Programacion\Practicas\MVC+FACTORY\MVC_VISTAS\obj\Debug\MVC_VISTAS.Vista_Rectangulo.resources
+C:\Users\Eusebio\Documents\9°\Programacion\Practicas\MVC+FACTORY\MVC_VISTAS\obj\Debug\MVC_VISTAS.Vista_Triangulo.resources

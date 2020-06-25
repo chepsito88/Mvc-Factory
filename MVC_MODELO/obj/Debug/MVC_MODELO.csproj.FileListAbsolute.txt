@@ -1,0 +1,6 @@
+C:\Users\Eusebio\Documents\9°\Programacion\Practicas\MVC+FACTORY\MVC_MODELO\bin\Debug\MVC_MODELO.dll
+C:\Users\Eusebio\Documents\9°\Programacion\Practicas\MVC+FACTORY\MVC_MODELO\bin\Debug\MVC_MODELO.pdb
+C:\Users\Eusebio\Documents\9°\Programacion\Practicas\MVC+FACTORY\MVC_MODELO\obj\Debug\MVC_MODELO.csprojAssemblyReference.cache
+C:\Users\Eusebio\Documents\9°\Programacion\Practicas\MVC+FACTORY\MVC_MODELO\obj\Debug\MVC_MODELO.csproj.CoreCompileInputs.cache
+C:\Users\Eusebio\Documents\9°\Programacion\Practicas\MVC+FACTORY\MVC_MODELO\obj\Debug\MVC_MODELO.dll
+C:\Users\Eusebio\Documents\9°\Programacion\Practicas\MVC+FACTORY\MVC_MODELO\obj\Debug\MVC_MODELO.pdb
